@@ -13,15 +13,19 @@ html {
   box-sizing: inherit;
 }
 
-
-h2 {
-text-align: center;
-}
-
 ul {
   display: flex;
-  justify-content:space-around;
-  align-items: center;
-  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  flex-direction: row;
+
+}
+
+li {
   width: 24rem;
+}
+
+img {
+  display: flex;
+  width: 5rem;
 }
