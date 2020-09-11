@@ -27,6 +27,7 @@ h2 {
 li {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: .5rem;
 }
 
@@ -49,4 +50,8 @@ h3 {
 
 p {
   width: 24rem;
+}
+
+a {
+  background-color: #444
 }
