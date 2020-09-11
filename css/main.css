@@ -13,19 +13,8 @@ html {
   box-sizing: inherit;
 }
 
-ul {
+li {
   display: flex;
   justify-content: center;
   align-items: stretch;
-  flex-direction: row;
-
-}
-
-li {
-  width: 24rem;
-}
-
-img {
-  display: flex;
-  width: 5rem;
 }
